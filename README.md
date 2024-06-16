@@ -46,12 +46,7 @@ PsycoCorp is website that connect people with same type of mental illness so tha
   3) MongoDB
   4) Express JS
 
-## Contributors:
-Team Name :- IncognitoVale
 
-* [Nupur Goyal](https://github.com/nupur102002)
-* [Harsh Kumar Sharma](https://github.com/Harsh311003)
-* [Vijay Kumar](https://github.com/vijaybadgurjar)
 
 ### Made at:
 <a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=20px> </a>
